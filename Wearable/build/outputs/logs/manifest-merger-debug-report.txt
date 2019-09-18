@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+MERGED from [androidx.wear:wear:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9ab3d1d51115aac3b4b9831db98f12e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/1a2308ee00abc1ea81ebb2d58cc72d85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/78c25d30cb77a84b33cc37785024fbd4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/5f391fcad72b82e05992bdce589dd90c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/2555f8433ad513235955d854153e96a6/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54e46bd2fb7e04dc5da52105ba7194dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/7321e945edd5ca432f8be36a4fb96413/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/ca0b7b1ea7bd99e27f7abd6213e1fbcd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/ebd35f4fb7be16e95b3d71e2fb11ba89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/749ebe173ba07a992243e5fd7c855450/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/956486aaf45b930165999b84fad657a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/2512873e7332a4ed23a4983bb357948e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/e68eb8c03c4cb871489e04a34418f906/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/03f0fa0ddeeda4ed1563f9b4e6adae53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9a77c9cf6733f382247a5dd92f6c0adc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/392827ac55d358c798bd7b026acd1b50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/420f59a0a3def0d8d16e67eab179d92f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/3af32647d1b1e72bb1f1102ebe3cb09c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/3418c3cf0cf25bd1a6b932b4c8cb3b62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/ca30c86c2110b00eb42ce1b7c830082b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0ce621502ef425147796323401913adc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/445f050f117f2cf93f659defbeb30e15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9943e48037543e2f4c5a62728d0faaa5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8f26523d7a44d16f63b83387601b69cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0603933c9963acd11a89fbc4f1ccb180/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/a0ea415528d9a4d082a7215a81f5a616/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/fafeceec5b818fe140e644477b6ec3e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/4ed9f396463e471dc390990d9ecde359/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/b72b5d68ecda4488393672308060f080/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8595d512a443cecd000d2050259deb49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/5b7b09288c916aa1680d9393129fc090/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8388cba1bdbe7097761153d8776a0e1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54b883c88c79b03fe834917408bc912c/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+	package
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:17:11-63
+	android:versionName
+		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:22-65
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:20:5-77
+	android:name
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:20:22-75
+uses-feature#android.hardware.type.watch
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:22:19-61
+application
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:24:5-53:19
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/78c25d30cb77a84b33cc37785024fbd4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/78c25d30cb77a84b33cc37785024fbd4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/5f391fcad72b82e05992bdce589dd90c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/5f391fcad72b82e05992bdce589dd90c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/2555f8433ad513235955d854153e96a6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/2555f8433ad513235955d854153e96a6/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0ce621502ef425147796323401913adc/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0ce621502ef425147796323401913adc/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0603933c9963acd11a89fbc4f1ccb180/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0603933c9963acd11a89fbc4f1ccb180/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54b883c88c79b03fe834917408bc912c/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54b883c88c79b03fe834917408bc912c/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0ce621502ef425147796323401913adc/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:25:9-36
+	android:theme
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:27:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:29:9-31:36
+	android:value
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:31:13-33
+	android:name
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:30:13-66
+uses-library#com.google.android.wearable
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:34:9-93
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:34:66-90
+	android:name
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:34:23-65
+activity#com.example.android.wearable.wear.alwayson.MainActivity
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:42:9-51:20
+	android:label
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:43:13-45
+	android:launchMode
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:44:13-48
+	android:exported
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:46:13-36
+	android:configChanges
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:45:13-63
+	android:name
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:42:19-89
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:47:13-50:29
+action#android.intent.action.MAIN
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:49:27-74
+uses-sdk
+INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+MERGED from [androidx.wear:wear:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9ab3d1d51115aac3b4b9831db98f12e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9ab3d1d51115aac3b4b9831db98f12e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/1a2308ee00abc1ea81ebb2d58cc72d85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/1a2308ee00abc1ea81ebb2d58cc72d85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/78c25d30cb77a84b33cc37785024fbd4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/78c25d30cb77a84b33cc37785024fbd4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/5f391fcad72b82e05992bdce589dd90c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/5f391fcad72b82e05992bdce589dd90c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/2555f8433ad513235955d854153e96a6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/2555f8433ad513235955d854153e96a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54e46bd2fb7e04dc5da52105ba7194dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54e46bd2fb7e04dc5da52105ba7194dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/7321e945edd5ca432f8be36a4fb96413/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/7321e945edd5ca432f8be36a4fb96413/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/ca0b7b1ea7bd99e27f7abd6213e1fbcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/ca0b7b1ea7bd99e27f7abd6213e1fbcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/ebd35f4fb7be16e95b3d71e2fb11ba89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/ebd35f4fb7be16e95b3d71e2fb11ba89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/749ebe173ba07a992243e5fd7c855450/AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/749ebe173ba07a992243e5fd7c855450/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/956486aaf45b930165999b84fad657a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/956486aaf45b930165999b84fad657a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/2512873e7332a4ed23a4983bb357948e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/2512873e7332a4ed23a4983bb357948e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/e68eb8c03c4cb871489e04a34418f906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/e68eb8c03c4cb871489e04a34418f906/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/03f0fa0ddeeda4ed1563f9b4e6adae53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/03f0fa0ddeeda4ed1563f9b4e6adae53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9a77c9cf6733f382247a5dd92f6c0adc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9a77c9cf6733f382247a5dd92f6c0adc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/392827ac55d358c798bd7b026acd1b50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/392827ac55d358c798bd7b026acd1b50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/420f59a0a3def0d8d16e67eab179d92f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/420f59a0a3def0d8d16e67eab179d92f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/3af32647d1b1e72bb1f1102ebe3cb09c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/3af32647d1b1e72bb1f1102ebe3cb09c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/3418c3cf0cf25bd1a6b932b4c8cb3b62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/3418c3cf0cf25bd1a6b932b4c8cb3b62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/ca30c86c2110b00eb42ce1b7c830082b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/ca30c86c2110b00eb42ce1b7c830082b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0ce621502ef425147796323401913adc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0ce621502ef425147796323401913adc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/445f050f117f2cf93f659defbeb30e15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/445f050f117f2cf93f659defbeb30e15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9943e48037543e2f4c5a62728d0faaa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9943e48037543e2f4c5a62728d0faaa5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8f26523d7a44d16f63b83387601b69cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8f26523d7a44d16f63b83387601b69cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0603933c9963acd11a89fbc4f1ccb180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0603933c9963acd11a89fbc4f1ccb180/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/a0ea415528d9a4d082a7215a81f5a616/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/a0ea415528d9a4d082a7215a81f5a616/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/fafeceec5b818fe140e644477b6ec3e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/fafeceec5b818fe140e644477b6ec3e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/4ed9f396463e471dc390990d9ecde359/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/4ed9f396463e471dc390990d9ecde359/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/b72b5d68ecda4488393672308060f080/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/b72b5d68ecda4488393672308060f080/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8595d512a443cecd000d2050259deb49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8595d512a443cecd000d2050259deb49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/5b7b09288c916aa1680d9393129fc090/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/5b7b09288c916aa1680d9393129fc090/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8388cba1bdbe7097761153d8776a0e1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8388cba1bdbe7097761153d8776a0e1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54b883c88c79b03fe834917408bc912c/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54b883c88c79b03fe834917408bc912c/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/2555f8433ad513235955d854153e96a6/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/2555f8433ad513235955d854153e96a6/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/2555f8433ad513235955d854153e96a6/AndroidManifest.xml:24:13-58
