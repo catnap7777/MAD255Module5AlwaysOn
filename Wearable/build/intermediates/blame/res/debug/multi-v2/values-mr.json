@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/student/AndroidStudioProjects/AlwaysOn/Wearable/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+            "outputFile": "/Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
             "map": [
                 {
                     "source": "/Users/student/.gradle/caches/transforms-2/files-2.1/2555f8433ad513235955d854153e96a6/res/values-mr/values.xml",

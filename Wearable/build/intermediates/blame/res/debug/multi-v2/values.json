@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/student/AndroidStudioProjects/AlwaysOn/Wearable/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/student/.gradle/caches/transforms-2/files-2.1/e68eb8c03c4cb871489e04a34418f906/res/values/values.xml",
@@ -97,23 +97,6 @@
                     }
                 },
                 {
-                    "source": "/Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "16,21,18,19,17,20",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "738,1057,853,921,793,989",
-                        "endColumns": "54,61,67,67,59,67",
-                        "endOffsets": "788,1114,916,984,848,1052"
-                    },
-                    "to": {
-                        "startLines": "401,452,455,456,462,463",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "24056,28661,28817,28885,29507,29567",
-                        "endColumns": "54,61,67,67,59,67",
-                        "endOffsets": "24106,28718,28880,28948,29562,29630"
-                    }
-                },
-                {
                     "source": "/Users/student/.gradle/caches/transforms-2/files-2.1/ca0b7b1ea7bd99e27f7abd6213e1fbcd/res/values/values.xml",
                     "from": {
                         "startLines": "30,31,32,33,34,35,36,2",
@@ -166,6 +149,23 @@
                         "endLines": "13,21,22,23,24,25,30,31,32,33,36,37,40,43,44,45,46,47,50,53,54,55,56,61,64,67,68,69,74,75,76,79,82,83,86,89,92,95,96,99,102,103,108,109,114,117,120,121,122,123,124,125,126,127,128,129,137,775,776,777,1026",
                         "endColumns": "60,11,47,51,60,45,11,60,59,69,11,67,11,11,61,64,67,66,11,11,66,64,64,11,11,11,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,11,11,64,61,61,61,58,59,60,60,58,11,2575,131,3001,107",
                         "endOffsets": "617,908,956,1008,1069,1115,1303,1364,1424,1494,1627,1695,1824,1950,2012,2077,2145,2212,2335,2460,2527,2592,2657,2838,2959,3080,3146,3213,3423,3492,3558,3683,3809,3876,4002,4129,4254,4381,4446,4572,4695,4760,4968,5035,5215,5335,5455,5520,5582,5644,5706,5765,5825,5886,5947,6006,6346,45176,45308,48310,62162"
+                    }
+                },
+                {
+                    "source": "/Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "16,21,18,19,17,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "738,1057,853,921,793,989",
+                        "endColumns": "54,61,67,67,59,67",
+                        "endOffsets": "788,1114,916,984,848,1052"
+                    },
+                    "to": {
+                        "startLines": "401,452,455,456,462,463",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "24056,28661,28817,28885,29507,29567",
+                        "endColumns": "54,61,67,67,59,67",
+                        "endOffsets": "24106,28718,28880,28948,29562,29630"
                     }
                 },
                 {

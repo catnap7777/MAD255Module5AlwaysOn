@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
-INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
-INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
 MERGED from [androidx.wear:wear:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9ab3d1d51115aac3b4b9831db98f12e7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/1a2308ee00abc1ea81ebb2d58cc72d85/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/78c25d30cb77a84b33cc37785024fbd4/AndroidManifest.xml:17:1-24:12
@@ -38,34 +38,34 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/student/.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/5b7b09288c916aa1680d9393129fc090/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8388cba1bdbe7097761153d8776a0e1c/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54b883c88c79b03fe834917408bc912c/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
-INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
 	package
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:17:11-63
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:17:11-63
 	android:versionName
-		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
-		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+		INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
-		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:1-54:12
+		INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:11-69
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:16:11-69
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:5-68
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:5-68
 	android:name
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:22-65
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:19:22-65
 uses-permission#com.android.alarm.permission.SET_ALARM
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:20:5-77
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:20:5-77
 	android:name
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:20:22-75
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:20:22-75
 uses-feature#android.hardware.type.watch
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:22:5-64
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:22:5-64
 	android:name
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:22:19-61
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:22:19-61
 application
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:24:5-53:19
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:24:5-53:19
 MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/78c25d30cb77a84b33cc37785024fbd4/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-wearable:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/78c25d30cb77a84b33cc37785024fbd4/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:9:5-13:19
@@ -85,51 +85,51 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/student/.g
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/0ce621502ef425147796323401913adc/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:26:9-41
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:26:9-41
 	android:allowBackup
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:25:9-36
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:25:9-36
 	android:theme
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:27:9-59
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:27:9-59
 meta-data#com.google.android.wearable.standalone
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:29:9-31:36
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:29:9-31:36
 	android:value
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:31:13-33
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:31:13-33
 	android:name
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:30:13-66
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:30:13-66
 uses-library#com.google.android.wearable
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:34:9-93
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:34:9-93
 MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:10:9-12:40
 MERGED from [com.google.android.support:wearable:2.4.0] /Users/student/.gradle/caches/transforms-2/files-2.1/38c703d5ded5dcf57c8e1be5129a18d2/AndroidManifest.xml:10:9-12:40
 	android:required
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:34:66-90
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:34:66-90
 	android:name
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:34:23-65
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:34:23-65
 activity#com.example.android.wearable.wear.alwayson.MainActivity
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:42:9-51:20
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:42:9-51:20
 	android:label
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:43:13-45
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:43:13-45
 	android:launchMode
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:44:13-48
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:44:13-48
 	android:exported
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:46:13-36
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:46:13-36
 	android:configChanges
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:45:13-63
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:45:13-63
 	android:name
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:42:19-89
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:42:19-89
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:47:13-50:29
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:47:13-50:29
 action#android.intent.action.MAIN
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:48:17-69
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:48:17-69
 	android:name
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:48:25-66
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:48:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:49:17-77
+ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:49:17-77
 	android:name
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml:49:27-74
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml:49:27-74
 uses-sdk
-INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
-INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
+INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
 MERGED from [androidx.wear:wear:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9ab3d1d51115aac3b4b9831db98f12e7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.wear:wear:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/9ab3d1d51115aac3b4b9831db98f12e7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/1a2308ee00abc1ea81ebb2d58cc72d85/AndroidManifest.xml:20:5-44
@@ -200,16 +200,16 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/student/.gradle/cache
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/student/.gradle/caches/transforms-2/files-2.1/8388cba1bdbe7097761153d8776a0e1c/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54b883c88c79b03fe834917408bc912c/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.0] /Users/student/.gradle/caches/transforms-2/files-2.1/54b883c88c79b03fe834917408bc912c/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
-INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
+INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
-		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
-		ADDED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
-		INJECTED from /Users/student/AndroidStudioProjects/AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		ADDED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
+		INJECTED from /Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/src/main/AndroidManifest.xml
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/student/.gradle/caches/transforms-2/files-2.1/730a51e4c3ae29b8cc4cad00ad9e2884/AndroidManifest.xml:23:9-26:75
 	android:exported
