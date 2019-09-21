@@ -299,9 +299,13 @@ public class MainActivity extends FragmentActivity
              * avoiding large blocks of white pixels, using only black and white, and disabling
              * anti-aliasing, etc.)
              */
-            mStateTextView.setTextColor(Color.WHITE);
-            mUpdateRateTextView.setTextColor(Color.WHITE);
-            mDrawCountTextView.setTextColor(Color.WHITE);
+//            mStateTextView.setTextColor(Color.WHITE);
+//            mUpdateRateTextView.setTextColor(Color.WHITE);
+//            mDrawCountTextView.setTextColor(Color.WHITE);
+
+            mStateTextView.setTextColor(Color.YELLOW);
+            mUpdateRateTextView.setTextColor(Color.YELLOW);
+            mDrawCountTextView.setTextColor(Color.YELLOW);
 
             if (mIsLowBitAmbient) {
                 mTimeTextView.getPaint().setAntiAlias(false);

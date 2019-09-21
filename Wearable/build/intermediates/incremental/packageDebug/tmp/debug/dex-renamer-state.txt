@@ -1,4 +1,4 @@
-#Wed Sep 18 23:13:32 CDT 2019
+#Fri Sep 20 19:50:04 CDT 2019
 base.0=/Users/student/AndroidStudioProjects/MAD255Module5AlwaysOn/Wearable/build/intermediates/dex/debug/mergeExtDexDebug/out
 path.1=classes.dex
 renamed.1=classes2.dex
