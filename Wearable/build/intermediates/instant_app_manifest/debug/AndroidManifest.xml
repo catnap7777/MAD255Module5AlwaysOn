@@ -43,7 +43,7 @@
         <!-- If you want your app to run on pre-22, then set required to false -->
         <uses-library
             android:name="com.google.android.wearable"
-            android:required="false" />
+            android:required="true" />
 
         <!--
             To update the screen more than once per minute in ambient mode, developers should set

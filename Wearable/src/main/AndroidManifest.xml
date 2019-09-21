@@ -16,6 +16,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.example.android.wearable.wear.alwayson">
 
+
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="com.android.alarm.permission.SET_ALARM"/>
 
@@ -31,7 +32,8 @@
             android:value="true" />
 
         <!--If you want your app to run on pre-22, then set required to false -->
-        <uses-library android:name="com.google.android.wearable" android:required="false" />
+        <uses-library android:name="com.google.android.wearable" android:required="true" />
+
 
         <!--
             To update the screen more than once per minute in ambient mode, developers should set

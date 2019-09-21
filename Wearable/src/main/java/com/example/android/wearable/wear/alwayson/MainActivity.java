@@ -351,9 +351,13 @@ public class MainActivity extends FragmentActivity
             /* Clears out Alarms since they are only used in ambient mode. */
             mAmbientUpdateAlarmManager.cancel(mAmbientUpdatePendingIntent);
 
-            mStateTextView.setTextColor(Color.GREEN);
-            mUpdateRateTextView.setTextColor(Color.GREEN);
-            mDrawCountTextView.setTextColor(Color.GREEN);
+//            mStateTextView.setTextColor(Color.GREEN);
+//            mUpdateRateTextView.setTextColor(Color.GREEN);
+//            mDrawCountTextView.setTextColor(Color.GREEN);
+
+            mStateTextView.setTextColor(Color.RED);
+            mUpdateRateTextView.setTextColor(Color.RED);
+            mDrawCountTextView.setTextColor(Color.RED);
 
             if (mIsLowBitAmbient) {
                 mTimeTextView.getPaint().setAntiAlias(true);
