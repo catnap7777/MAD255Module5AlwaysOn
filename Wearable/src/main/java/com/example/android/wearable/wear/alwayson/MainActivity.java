@@ -115,6 +115,7 @@ public class MainActivity extends FragmentActivity
     private TextView mUpdateRateTextView;
     private TextView mDrawCountTextView;
 
+
     private final SimpleDateFormat sDateFormat = new SimpleDateFormat("HH:mm:ss", Locale.US);
 
     private volatile int mDrawCount = 0;
@@ -188,6 +189,8 @@ public class MainActivity extends FragmentActivity
         mStateTextView = findViewById(R.id.state);
         mUpdateRateTextView = findViewById(R.id.update_rate);
         mDrawCountTextView = findViewById(R.id.draw_count);
+
+
     }
 
     @Override
@@ -247,9 +250,9 @@ public class MainActivity extends FragmentActivity
                 TAG,
                 "loadDataAndUpdateScreen(): "
                         + currentTimeMs
-                        + "("
+                        + "(*****"
                         + mAmbientController.isAmbient()
-                        + ")");
+                        + "*****)");
 
         if (mAmbientController.isAmbient()) {
 
@@ -262,6 +265,8 @@ public class MainActivity extends FragmentActivity
 
             mDrawCountTextView.setText(getString(R.string.draw_count_label, mDrawCount));
 
+
+
         } else {
 
             mTimeTextView.setText(sDateFormat.format(new Date()));
@@ -272,6 +277,8 @@ public class MainActivity extends FragmentActivity
                     getString(R.string.update_rate_label, (ACTIVE_INTERVAL_MS / 1000)));
 
             mDrawCountTextView.setText(getString(R.string.draw_count_label, mDrawCount));
+
+
         }
     }
 
@@ -303,9 +310,9 @@ public class MainActivity extends FragmentActivity
 //            mUpdateRateTextView.setTextColor(Color.WHITE);
 //            mDrawCountTextView.setTextColor(Color.WHITE);
 
-            mStateTextView.setTextColor(Color.YELLOW);
-            mUpdateRateTextView.setTextColor(Color.YELLOW);
-            mDrawCountTextView.setTextColor(Color.YELLOW);
+            mStateTextView.setTextColor(Color.RED);
+            mUpdateRateTextView.setTextColor(Color.RED);
+            mDrawCountTextView.setTextColor(Color.RED);
 
             if (mIsLowBitAmbient) {
                 mTimeTextView.getPaint().setAntiAlias(false);
@@ -355,13 +362,10 @@ public class MainActivity extends FragmentActivity
             /* Clears out Alarms since they are only used in ambient mode. */
             mAmbientUpdateAlarmManager.cancel(mAmbientUpdatePendingIntent);
 
-//            mStateTextView.setTextColor(Color.GREEN);
-//            mUpdateRateTextView.setTextColor(Color.GREEN);
-//            mDrawCountTextView.setTextColor(Color.GREEN);
+            mStateTextView.setTextColor(Color.GREEN);
+            mUpdateRateTextView.setTextColor(Color.GREEN);
+            mDrawCountTextView.setTextColor(Color.GREEN);
 
-            mStateTextView.setTextColor(Color.RED);
-            mUpdateRateTextView.setTextColor(Color.RED);
-            mDrawCountTextView.setTextColor(Color.RED);
 
             if (mIsLowBitAmbient) {
                 mTimeTextView.getPaint().setAntiAlias(true);

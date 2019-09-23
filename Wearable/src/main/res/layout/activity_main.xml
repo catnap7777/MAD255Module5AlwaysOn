@@ -41,8 +41,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="center"
-            android:textSize="24sp"
-            android:text="Hello, time!"/>
+            android:text="Hello, time!"
+            android:textSize="18sp" />
 
         <TextView
             android:id="@+id/time_stamp"
